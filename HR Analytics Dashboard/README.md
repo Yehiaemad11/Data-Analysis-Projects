@@ -46,6 +46,4 @@ The goal was to uncover insights about **employee performance, salary structure,
 - **Sick Leave Trends:** Monitored absenteeism rates and seasonal patterns.  
 
 🖼️ *Dashboard Preview*  
-*(Add your screenshot below once you upload it)*  
-```markdown
 ![Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVhNTA3MTEtNzJlYy00ODliLTk2YjMtNmRkZmM0YmM1MzZhIiwidCI6ImU0MDRlMTU3LTAyYjktNGNkOS04NWZiLWRlYmY5YjAwMGNhMCJ9)
